@@ -1,1 +1,2 @@
--Run make in src -Run cush
+-Run make in src
+-Run cush
