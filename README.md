@@ -1,0 +1,1 @@
+-Run make in src -Run cush
